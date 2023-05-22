@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684270822078",
+    "project_id": "iub-transport-system",
+    "storage_bucket": "iub-transport-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684270822078:android:780ab89a4966b60280f4ef",
+        "android_client_info": {
+          "package_name": "com.example.iub_transport_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684270822078-bgmrb0lu1ac5nlde3p6vagm1hvl5sffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4Wd1XhoBZtM_nHVqAoysF4-woHqYSSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684270822078-bgmrb0lu1ac5nlde3p6vagm1hvl5sffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
